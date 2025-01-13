@@ -15,6 +15,7 @@ Welcome to my GitHub portfolio! I'm a versatile and passionate **full-stack deve
 ### **Backend Development**
 - **Node.js**: Fast and scalable server-side applications.
 - **Express.js**: Building robust APIs and microservices.
+- **Socket.io**: Building real-time Application 
 - **Python**: Data-driven backend development.
 
 ### **Programming Languages**
