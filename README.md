@@ -9,7 +9,7 @@ HTML5 & CSS3 – Semantic and accessible web design
 JavaScript (ES6+) – Modern, clean, and maintainable code
 Flutter – Cross-platform mobile app development
 Backend Development
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,python" alt="Backend Tech Stack"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Tech Stack"/> </p>
 Node.js – Fast and scalable server-side applications
 Express.js – Robust APIs and microservices
 Socket.IO – Real-time applications
