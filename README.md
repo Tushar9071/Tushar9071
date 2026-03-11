@@ -85,49 +85,6 @@ const tushar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tusharrajpara00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrajpara00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrajpara00&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharrajpara00&bg_color=0d1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🛠️ Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| 💬 **Full-Stack Chat App** | React · Node · Express · Socket.IO | Real-time messaging, JWT auth, modern UI |
-| 🔜 *More coming soon...* | | |
-
-</div>
-
-> 🔗 **Chat App Repository** → [View on GitHub](https://github.com/tusharrajpara00)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharrajpara00&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
