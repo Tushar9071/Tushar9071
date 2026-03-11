@@ -7,7 +7,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-tusharrajpara00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharrajpara00@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/tusharrajpara00?style=for-the-badge&logo=github&logoColor=white&color=302b63)](https://github.com/Tushar9071)
 
 </div>
 
